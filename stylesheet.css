@@ -58,7 +58,7 @@ header{
 .conversion {
   text-align: center;
   padding: 80px 0px 50px 0px;
-  background-image: url(../img/topimg-copy.jpg);
+  background-image: url(https://koji763.github.io/ITgateway/img/topimg-copy.jpg);
   background-color: #ca7b3b;
   background-blend-mode: hard-light;
   margin: 0 auto;
@@ -260,7 +260,7 @@ header{
 
 .member-content {
   text-align: center;
-  background-image: url(../img/member-bc2.jpg);
+  background-image: url(https://koji763.github.io/ITgateway/img/member-bc2.jpg);
   background-color: rgba(255, 255, 255, 0.5);
   background-blend-mode: lighten;
   padding: 50px 0px;
@@ -387,7 +387,7 @@ header{
 
 .whygateway {
   margin: 0;
-  background-image: url(../img/message-bcg.jpg);
+  background-image: url(https://koji763.github.io/ITgateway/img/message-bcg.jpg);
   padding: 20px 0px 50px 0px;
 }
 
