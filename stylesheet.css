@@ -205,6 +205,9 @@ header{
   font-weight: 800;
   font-size: 2.6rem;
 }
+.intro-content{
+  width:100%
+}
 
 .icon-wrap {
   width: 75%;
@@ -578,9 +581,13 @@ button:hover{
     width: 250px !important;
     height: auto;
   }
+  
+   .member-img{
+    width:100%
+  }
 
   .member-intro{
-    width: 350px;
+    width: 100%;
     margin-top: 3rem;
     margin-right: auto;
     margin-left: auto;
@@ -700,9 +707,12 @@ button:hover{
     width: 200px !important;
     height: auto;
   }
+  .member-img{
+    width:100%
+  }
 
   .member-intro{
-    width: 300px;
+    width: 100%;
     margin-top: 3rem;
     margin-right: auto;
     margin-left: auto;
@@ -788,7 +798,7 @@ button:hover{
     width: 50%;
   }
   .form{
-    width: 400px !important;
+    width: 80% !important;
   }
 
 }
