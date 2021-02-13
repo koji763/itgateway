@@ -684,6 +684,7 @@ button:hover{
 @media screen and (max-width: 599px){
   html {
     font-size: 50%;
+    color:red;
   }
   body {
     font-size: 0.32rem;
