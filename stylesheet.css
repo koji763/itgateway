@@ -126,6 +126,11 @@ header{
   padding: 40px 0px;
 }
 
+.intro-content{
+  width: 80% !important;
+  margin: 0 auto;
+}
+
 .intro p {
   font-size: 2rem;
   margin: 1.3em 0px;
@@ -291,7 +296,7 @@ header{
 
 
 .member-img {
-  width: to%;
+  width: 50%;
   height: auto;
   display: flex;
   align-items: center;
@@ -446,6 +451,8 @@ header{
 .faq-list {
   cursor: pointer;
   margin-top: 4px;
+  width: 90%;
+  margin: 0 auto;
 }
 
 .answer {
@@ -571,7 +578,7 @@ button:hover{
   }
 
   .merit{
-    width: 500px !important;
+    width: 100% !important;
   }
   .member-wrap {
     display: block;
@@ -687,6 +694,10 @@ button:hover{
   .pc-visible {
     display: none;
   }
+  .home h2{
+    width: 90%;
+    margin: 0 auto;
+  }
   .merit-wrap {
     display: block;
   }
@@ -697,7 +708,7 @@ button:hover{
   }
 
   .merit{
-    width: 300px !important;
+    width: 100% !important;
   }
   .member-wrap {
     display: block;
@@ -707,8 +718,9 @@ button:hover{
     width: 200px !important;
     height: auto;
   }
+
   .member-img{
-    width:100%
+    width: 100%;
   }
 
   .member-intro{
@@ -723,7 +735,7 @@ button:hover{
   }
   .possible-wrap {
     margin: 0 auto;
-    width: 60%;
+    width: 80%;
     display: block;
     padding: 0;
   }
