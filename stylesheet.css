@@ -813,5 +813,10 @@ button:hover{
   .form{
     width: 80% !important;
   }
+  .contact-txt{
+  margin-top: 1rem;
+  text-align: center;
+  font-seize:1.6rem !important;
+}
 
 }
