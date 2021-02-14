@@ -816,7 +816,8 @@ button:hover{
   .contact-txt{
   margin-top: 1rem;
   text-align: center;
-  font-seize:1.6rem !important;
+  font-seize:16px !important;
+  color:red;
 }
 
 }
